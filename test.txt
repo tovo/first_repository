@@ -1,0 +1,11 @@
+ Le volume dans le lecteur Y s'appelle www
+ Le num‚ro de s‚rie du volume est D274-73BB
+
+ R‚pertoire de Y:\git\first_repository
+
+28/03/2018  05:21    <DIR>          .
+28/03/2018  05:13    <DIR>          ..
+28/03/2018  05:13                18 README.md
+28/03/2018  05:21               133 test.txt
+               2 fichier(s)              151 octets
+               2 R‚p(s)   4ÿ654ÿ796ÿ800 octets libres
